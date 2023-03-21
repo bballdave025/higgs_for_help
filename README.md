@@ -15,7 +15,7 @@ I'm putting together a notebook with just the basics of the computation,
 with more physics and more look at the numbers for individual particles in
 individual events. I highlight questions about the radicand in the invariant
 mass formula, i.e. the $E^2 - \lvert \textbf{p} \rvert^2$ part of the whole
-$m_0 = sqrt{E^2 - \lvert \textbf{p} \rvert^2}$. Part of my question is to ask 
+$m_0 = \sqrt{E^2 - \lvert \textbf{p} \rvert^2}$. Part of my question is to ask 
 if I'm handling things right when $\lvert \textbf{p} \rvert^2  >  E^2$.
 
 I am also looking at the invariant mass of the system of particles to double

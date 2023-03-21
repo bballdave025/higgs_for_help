@@ -17,10 +17,13 @@ __pycache__/
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
 
+# Don't need the CSV files that will be downloaded each time, anyway
+*.csv
+
 # None of those backup files
 *~
 
-# None of those Windows Office backup files
+# None of those Windows Office (at least MS Word) backup files
 $~*
 
 *.info

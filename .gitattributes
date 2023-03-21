@@ -74,11 +74,13 @@
 *.md             text eol=lf
 *.txt            text eol=lf
 *.cfg            text eol=lf
-#*.bak            text eol=lf  
+*.bak            text eol=lf  
         ## .gitignore shouldn't let any through
-#*.log            text eol=lf  
+*.log            text eol=lf  
         ## .gitignore shouldn't let any through
-#*.out            text eol=lf  
+*.out            text eol=lf  
+        ## .gitignore shouldn't let any through
+*.csv            text eol=lf  
         ## .gitignore shouldn't let any through
 .gitignore       text eol=lf
 .gitattributes   text eol=lf

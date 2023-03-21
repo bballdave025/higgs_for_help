@@ -23,6 +23,8 @@ __pycache__/
 # None of those Windows Office backup files
 $~*
 
+*.info
+
 # The template from GitHub for a Python repo
 ## >>>>>>>>>> Start GitHub Python template for .gitignore >>>>>>>>>>
 

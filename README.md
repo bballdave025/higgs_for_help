@@ -1,5 +1,9 @@
 # higgs_for-help
 
+This Jupyter notebook is now available (and executable), thanks to [MyBinder](https://mybinder.org/).
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/higgs_for_help/main?labpath=Higgs_Boson_Discovery_Visualization_Questions_for_Help.ipynb)
+
 I'm putting this repo together for a Physics StackExchange Question.
 I've run into some problems with my attempts to analyze the 4-lepton data
 from the Higgs search (2011 and 2012 runs). I'm going on to look at the
